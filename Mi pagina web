@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"></link>
+    <title>Mi pagina</title>
+</head>
+<body>
+    <h1>Hola como estas, Bienvenido</h1>
+    <h3>Esta es mi pagina web</h3>
+    <p>Es una pagina web sobre las tortugas caimanes<br>
+        Sabias que las tortugas caiman viven en promedio 45 años<br>
+    </p>
+    <img src="https://static.wikia.nocookie.net/wikia_tortuga/images/0/0c/Boca_tortuga_caim%C3%A1n.webp/revision/latest/scale-to-width-down/500?cb=20200704140252&path-prefix=es" alt="tortuga"></img>
+    <p>La mordida de una tortuga caiman es de hasta 455 kg / cm².<br>
+        Esta fuerza, lo suficientemente potente como para triturar un coco, compensa su falta de velocidad.<br>
+    </p>
+
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 18px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #f0f0f0; /* El color del fondo de la página web */
+    color: #333333; /* El color del texto*/ 
+}
+h1 {
+    color: #00a800; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+
+    <input>
+</body>
+</html>
+
